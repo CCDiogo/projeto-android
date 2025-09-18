@@ -120,6 +120,11 @@ main h2{
     text-indent: 8px;
     font-weight: normal;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
 main p{
     padding: 15px 0px;
     text-align: justify;
